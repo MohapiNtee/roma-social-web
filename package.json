@@ -1,0 +1,16 @@
+{
+  "name": "roma-social-web",
+  "version": "1.0.0",
+  "description": "A complete social media website converted from the Roma Mini Social Network console app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js"
+  },
+  "keywords": [
+    "social",
+    "website",
+    "facebook-like"
+  ],
+  "author": "",
+  "license": "MIT"
+}

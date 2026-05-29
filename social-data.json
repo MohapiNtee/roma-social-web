@@ -1,0 +1,323 @@
+{
+  "users": [
+    {
+      "id": "1000",
+      "username": "Neo",
+      "password": "0000",
+      "profile": {
+        "id": "1000",
+        "username": "Neo",
+        "fullName": "eo Letsae",
+        "email": "@Noe.com",
+        "address": "The Wild",
+        "occupation": "Student",
+        "phone1": "43434",
+        "phone2": "",
+        "dob": {
+          "day": "12",
+          "month": "23",
+          "year": "2000"
+        },
+        "course": "CS",
+        "bio": "Building connections on Roma Social.",
+        "joinedAt": "2026-05-28T18:42:44.027Z"
+      }
+    },
+    {
+      "id": "1000",
+      "username": "Tshepang",
+      "password": "2000",
+      "profile": {
+        "id": "1000",
+        "username": "Tshepang",
+        "fullName": "eo Letsae",
+        "email": "@Noe.com",
+        "address": "The Wild",
+        "occupation": "Student",
+        "phone1": "43434",
+        "phone2": "",
+        "dob": {
+          "day": "12",
+          "month": "23",
+          "year": "2000"
+        },
+        "course": "IS",
+        "bio": "Building connections on Roma Social.",
+        "joinedAt": "2026-05-28T18:42:44.027Z"
+      }
+    },
+    {
+      "id": "1",
+      "username": "Nkuebe",
+      "password": "2005",
+      "profile": {
+        "id": "1",
+        "username": "Nkuebe",
+        "fullName": "Tlotliso MAfatlane",
+        "email": "mafewe@wrw.com",
+        "address": "Main campus",
+        "occupation": "Student",
+        "phone1": "1213213213",
+        "phone2": "",
+        "dob": {
+          "day": "12",
+          "month": "23",
+          "year": "3995"
+        },
+        "course": "",
+        "bio": "Building connections on Roma Social.",
+        "joinedAt": "2026-05-28T18:42:44.027Z"
+      }
+    },
+    {
+      "id": "1",
+      "username": "Tlotliso",
+      "password": "2005",
+      "profile": {
+        "id": "1",
+        "username": "Tlotliso",
+        "fullName": "Tlotliso MAfatlane",
+        "email": "mafewe@wrw.com",
+        "address": "Main campus",
+        "occupation": "Student",
+        "phone1": "1213213213",
+        "phone2": "",
+        "dob": {
+          "day": "12",
+          "month": "23",
+          "year": "3995"
+        },
+        "course": "",
+        "bio": "Building connections on Roma Social.",
+        "joinedAt": "2026-05-28T18:42:44.012Z"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": "8b82de81-dbfa-46f6-9bea-8f2c7eaac8f9",
+      "username": "johndoe",
+      "content": "Hello everyone!",
+      "createdAt": "2025-10-26T21:11:26.000Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "b97013a3-6201-463b-ae97-08512bf7c774",
+      "username": "janesmith",
+      "content": "Enjoying my new project.",
+      "createdAt": "2025-10-26T21:11:26.000Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "fd9ac3df-4c66-49f3-8f05-1e4e4ed8ee71",
+      "username": "johndoe",
+      "content": "Had a great day!",
+      "createdAt": "2025-10-26T21:11:26.000Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "1869dabc-4867-4d59-8dda-1ca9776344e2",
+      "username": "Tlotliso",
+      "content": "Hello Guys, I am Back!",
+      "createdAt": "2025-10-26T21:11:26.000Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "72d614b5-fa1c-4268-b7c7-9ef93e1f5bcd",
+      "username": "Tshepang",
+      "content": "Hey guys i'm new here",
+      "createdAt": "2025-10-26T21:11:26.000Z",
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "2544d95e-38b8-4b0f-9f6c-8ff7f79229da",
+      "username": "Nkuebe",
+      "content": "YO",
+      "createdAt": "2025-10-26T21:29:11.000Z",
+      "likes": [],
+      "comments": []
+    }
+  ],
+  "friends": {
+    "Neo": [
+      "Nkuebe"
+    ],
+    "Nkuebe": [
+      "Neo",
+      "Tshepang",
+      "Tlotliso"
+    ],
+    "Tshepang": [
+      "Nkuebe"
+    ],
+    "Tlotliso": [
+      "Nkuebe"
+    ]
+  },
+  "friendRequests": [],
+  "messages": [
+    {
+      "id": "cf4663be-b2fd-4244-b4e6-bb5ef1888924",
+      "from": "Nkube",
+      "to": "Neo",
+      "body": "Ola",
+      "createdAt": "2026-05-28T18:34:44.036Z"
+    },
+    {
+      "id": "539498bb-da6e-4446-9ec9-b492db673054",
+      "from": "Tlotliso",
+      "to": "Neo",
+      "body": "exe",
+      "createdAt": "2026-05-28T18:35:44.036Z"
+    },
+    {
+      "id": "32ed457a-1ef6-43c2-821f-6f5ede53428c",
+      "from": "Nkube",
+      "to": "Neo",
+      "body": "le hokae dha",
+      "createdAt": "2026-05-28T18:36:44.036Z"
+    },
+    {
+      "id": "9ecda36f-42de-41ff-bb5b-f496292a9213",
+      "from": "Tlotliso",
+      "to": "Neo",
+      "body": "SLT",
+      "createdAt": "2026-05-28T18:37:44.036Z"
+    },
+    {
+      "id": "da9595f9-f265-4c0d-a5fe-6cedd87d4908",
+      "from": "Nkube",
+      "to": "Neo",
+      "body": "okay Katla dh",
+      "createdAt": "2026-05-28T18:38:44.036Z"
+    },
+    {
+      "id": "e0f16092-8ce8-4e8d-b177-f5e19b6a23f3",
+      "from": "Tlotliso",
+      "to": "Neo",
+      "body": "Okay Fast",
+      "createdAt": "2026-05-28T18:39:44.036Z"
+    },
+    {
+      "id": "243b2d90-4383-4ed4-9060-269f2139d071",
+      "from": "Tshepang",
+      "to": "Neo",
+      "body": "Yo",
+      "createdAt": "2026-05-28T18:40:44.036Z"
+    },
+    {
+      "id": "46139217-396b-417e-a92c-ae5113d48058",
+      "from": "Tshepang",
+      "to": "Neo",
+      "body": "1",
+      "createdAt": "2026-05-28T18:41:44.036Z"
+    },
+    {
+      "id": "373eb5b8-f7d0-4804-9441-7beb8fb2e6a1",
+      "from": "Nkuebe",
+      "to": "Neo",
+      "body": "Yo",
+      "createdAt": "2026-05-28T18:29:44.036Z"
+    },
+    {
+      "id": "2908d38b-8c57-4591-961d-9664e98aece7",
+      "from": "Neo",
+      "to": "Neo",
+      "body": " reueir",
+      "createdAt": "2026-05-28T18:30:44.036Z"
+    },
+    {
+      "id": "b53b7bb5-09b7-43c9-b81f-0d4afc70e140",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "okay",
+      "createdAt": "2026-05-28T18:31:44.036Z"
+    },
+    {
+      "id": "5c7f06fb-1f70-44a5-944c-ad305c5b51b4",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "wefwewfewfw",
+      "createdAt": "2026-05-28T18:32:44.036Z"
+    },
+    {
+      "id": "70ba8e61-c6f2-4fe5-9660-e62cba2a15a1",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "wdwewdwdwdew",
+      "createdAt": "2026-05-28T18:33:44.037Z"
+    },
+    {
+      "id": "d853bff3-79ef-40b2-b5d8-5909d77b9640",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "ewwwrwerwe",
+      "createdAt": "2026-05-28T18:34:44.037Z"
+    },
+    {
+      "id": "ab74de71-b06b-4e39-a006-c22d7122baa6",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "ererrre",
+      "createdAt": "2026-05-28T18:35:44.037Z"
+    },
+    {
+      "id": "6edf8744-ac07-4423-bb42-aef4213448af",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "34459049595",
+      "createdAt": "2026-05-28T18:36:44.037Z"
+    },
+    {
+      "id": "16f3f931-eebd-4579-bf99-9cccc03446be",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "Okay Friend",
+      "createdAt": "2026-05-28T18:37:44.037Z"
+    },
+    {
+      "id": "a3df5e39-3b19-4854-b00e-a7467233a5fb",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "How are You",
+      "createdAt": "2026-05-28T18:38:44.037Z"
+    },
+    {
+      "id": "6432e857-f959-4f85-bbc5-7feba6a9ad1b",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "Good",
+      "createdAt": "2026-05-28T18:39:44.037Z"
+    },
+    {
+      "id": "4856683a-8cd9-4cb8-93bc-a079a0793aec",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "wewe",
+      "createdAt": "2026-05-28T18:40:44.037Z"
+    },
+    {
+      "id": "18733dbd-79ca-4d6a-9aee-9673452357e6",
+      "from": "Neo",
+      "to": "Neo",
+      "body": "ejrierfijer",
+      "createdAt": "2026-05-28T18:41:44.037Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "73327fac-0ab3-4491-9046-b5c7d82495ff",
+      "to": "Nkuebe",
+      "from": "Neo",
+      "type": "message",
+      "text": "eo Letsae sent you a message.",
+      "read": false,
+      "createdAt": "2026-05-28T18:44:17.299Z"
+    }
+  ]
+}
